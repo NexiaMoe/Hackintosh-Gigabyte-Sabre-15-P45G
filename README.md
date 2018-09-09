@@ -24,6 +24,9 @@ USB 3.1 (Left Panel)<br>
 
 -- I need your help for make my system more stable :D --
 
+# Download link
+v1 for 10.13.4 : <a href="https://github.com/ajipw/Hackintosh-Gigabyte-Sabre-15-P45G/releases/tag/v1-10.13.4">Download</a>
+
 # Thanks to 
 <a href="https://github.com/RehabMan">RehabMan</a> for Amazing work<br>
 <a href="https://github.com/Errrneist">Errrneist</a> for the config for Gigabyte Aero 15W <i>(Thanks man , you config is working with my Laptop, but DSDT.aml for battery is not working, i still manage to fix)</i><br>
